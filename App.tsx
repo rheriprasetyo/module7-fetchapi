@@ -4,7 +4,7 @@ import './style.css';
 export default function App() {
   return (
     <div>
-      <button>Generate Cat Fact</button>
+      <h1>Home Page</h1>
     </div>
   );
 }
